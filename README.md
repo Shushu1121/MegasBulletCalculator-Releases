@@ -22,7 +22,7 @@ Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 �
 2. ZIP을 원하는 위치에 압축 해제합니다.
 3. Astral Party가 종료된 상태에서 `dist\MegasBulletCalculator.exe`를 한 번 실행합니다.
 4. 프로그램이 필요한 BepInEx / Sensor 설치 또는 복구를 진행합니다.
-5. 이후 **잠재능력을 해금한 메가스**로 PvE 본게임에 진입하면 Calculator가 자동으로 실행됩니다.
+5. 이후 잠재능력을 해금한 메가스로 PvE 본게임에 진입하면 Calculator가 자동으로 실행됩니다.
 6. 메가스 판이 끝나면 Calculator도 자동 종료됩니다.
 
 게임이 이미 실행 중이고 설치 또는 갱신이 필요한 경우에는 게임 파일 변경을 보류하며, 게임 종료 후 다시 실행하면 설치/복구를 완료할 수 있습니다.
@@ -31,7 +31,7 @@ Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 �
 
 ## 프로그램 개요
 
-Megas Bullet Calculator는 Astral Party PvE에서 **잠재능력을 해금한 메가스**를 플레이할 때 계산하기 번거로운 포격 수치와 다음 라운드 손패 예상값을 화면에 보조 정보로 표시하기 위한 비공식 개인용 도구입니다.
+Megas Bullet Calculator는 Astral Party PvE에서 잠재능력을 해금한 메가스를 플레이할 때 계산하기 번거로운 포격 수치와 다음 라운드 손패 예상값을 화면에 보조 정보로 표시하기 위한 비공식 개인용 도구입니다.
 
 메가스의 잠재능력으로 활성화되는 액티브 스킬로 착지 발판을 선택하는 동안에는 게임 자체 판정을 이용해 현재 선택한 발판 기준의 **유효 포격 대상 후보**를 표시할 수 있습니다.
 
@@ -51,7 +51,7 @@ Megas Bullet Calculator는 Astral Party PvE에서 **잠재능력을 해금한 �
 - Windows 10/11
 - Astral Party Steam Global/INT 클라이언트
 - PvE 모드
-- **잠재능력을 해금하여 액티브 스킬을 사용할 수 있는 메가스**
+- 잠재능력을 해금한 상태의 메가스
 - **주 모니터 전체화면 환경 권장**
 - **1920×1080 (16:9) 권장**
 
