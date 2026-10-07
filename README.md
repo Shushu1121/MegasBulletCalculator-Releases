@@ -16,6 +16,12 @@ Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 �
 
 > PvP 모드는 개발/검증 대상이 아니며 동작, 호환성, 안전성을 보장하지 않습니다.
 
+## 시연 영상
+
+[![Megas Bullet Calculator v1.0.0 시연 영상](https://img.youtube.com/vi/uaugvYV4_v4/maxresdefault.jpg)](https://youtu.be/uaugvYV4_v4)
+
+이미지를 클릭하면 YouTube 시연 영상으로 이동합니다.
+
 ## 빠른 사용 안내
 
 1. Releases의 Assets에서 `MegasBulletCalculator_v1.0.0_Windows.zip`을 다운로드합니다.
