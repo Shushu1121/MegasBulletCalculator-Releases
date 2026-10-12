@@ -16,8 +16,9 @@ All rights reserved.
 https://github.com/Shushu1121/MegasBulletCalculator-Releases
 
 본 이용 조건에서 "원본 배포물"이란 원제작자가 위 공식 GitHub 저장소 및
-GitHub Releases를 통해 직접 배포한 MegasBulletCalculator_v1.0.0_Windows.zip을
+GitHub Releases를 통해 직접 게시한 Megas Bullet Calculator의 공식 배포 ZIP을
 파일 내용과 구성요소를 변경하지 않은 상태로 그대로 보존한 배포물을 의미합니다.
+이 정의는 v1.0.0 및 이후 원제작자가 게시한 공식 릴리즈에 적용됩니다.
 
 [허용되는 이용]
 
@@ -80,5 +81,7 @@ Astral Party 및 제3자가 권리를 보유한 명칭, 이미지, 캐릭터, �
 배포물에 포함된 제3자 라이브러리 및 도구의 라이선스는
 THIRD_PARTY_NOTICES.txt 및 LICENSES 폴더의 각 라이선스 문서를 따릅니다.
 
-본 이용 조건은 그러한 제3자 구성요소의 기존 라이선스를 변경하거나
-제한하는 것으로 해석되지 않습니다.
+본 이용 조건은 그러한 제3자 구성요소의 기존 라이선스 및 이에 따른
+이용자의 권리를 변경하거나 제한하는 것으로 해석되지 않습니다.
+프로그램 자체에 대한 재배포 제한은 제3자 라이브러리에 부여된
+별도의 오픈소스 권리를 축소하지 않습니다.
