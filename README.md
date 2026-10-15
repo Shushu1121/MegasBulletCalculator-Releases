@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-최신 버전: **v1.1.0**
+최신 버전: **v1.1.1** — 2026년 10월 15일 게임 업데이트 이후 발생한 UI 미표시 문제 수정
 
 **[최신 버전 다운로드 (GitHub Releases)](https://github.com/Shushu1121/MegasBulletCalculator-Releases/releases/latest)**
 
@@ -26,7 +26,7 @@
 
 ## 설치 및 실행
 
-1. [Releases](https://github.com/Shushu1121/MegasBulletCalculator-Releases/releases/latest)에서 `MegasBulletCalculator_v1.1.0_Windows.zip`을 다운로드하고 압축을 해제합니다.
+1. [Releases](https://github.com/Shushu1121/MegasBulletCalculator-Releases/releases/latest)에서 `MegasBulletCalculator_v1.1.1_Windows.zip`을 다운로드하고 압축을 해제합니다.
 2. Astral Party를 종료한 상태에서 `dist` 폴더의 **`MegasBulletCalculator.exe`**를 한 번 실행합니다.
 3. 필요한 BepInEx 및 Megas Bullet Sensor가 자동으로 설치·설정됩니다.
 4. 이후 잠재능력을 해금한 **메가스로 PvE 게임에 진입**하면 Calculator가 자동 실행됩니다.
