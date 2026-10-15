@@ -18,7 +18,7 @@ https://github.com/Shushu1121/MegasBulletCalculator-Releases
 본 이용 조건에서 "원본 배포물"이란 원제작자가 위 공식 GitHub 저장소 및
 GitHub Releases를 통해 직접 게시한 Megas Bullet Calculator의 공식 배포 ZIP을
 파일 내용과 구성요소를 변경하지 않은 상태로 그대로 보존한 배포물을 의미합니다.
-이 정의는 v1.0.0 및 이후 원제작자가 게시한 공식 릴리즈에 적용됩니다.
+이 정의는 v1.0.0부터 v1.1.1까지의 공식 릴리즈와 그 이후 원제작자가 게시하는 공식 릴리즈에 적용됩니다.
 
 [허용되는 이용]
 
